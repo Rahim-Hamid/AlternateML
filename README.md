@@ -3,6 +3,8 @@ This project implements a multimodal machine learning system that generates orig
 
 Given an input artwork image, the system produces a short, title-style text string without relying on retrieval or prompt templates.
 
+Dataset used is the WikiArt Dataset from Kaggle - current model is trained on 8000 image-text relations - planning on scaling from 8000 to 30,000, with eventual plans to scale to 80,000 to encompass the entire dataset
+
 Sample Generated Titles:
 
 We Are All So Lonesome And So So

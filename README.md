@@ -1,7 +1,7 @@
 # AlternateML
 This project implements a multimodal machine learning system that generates original artwork titles for unseen images by conditioning a language model on visual features extracted from the image.
 
-Given an input artwork image, the system produces a short, title-style text string (e.g. “Muted Assembly”, “Figures at Dusk”) without relying on retrieval or prompt templates.
+Given an input artwork image, the system produces a short, title-style text string without relying on retrieval or prompt templates.
 
 Sample Generated Titles:
 
